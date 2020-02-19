@@ -15,12 +15,9 @@ User Interface (GUI) chatting window.
 
 ### Message Format
 
+```bash
 * Message Format -
-
 * 1 - JOIN, 2 - MESSAGE, 3 - LEAVE
-
-*
-
 * {
 
 * command: 2,
@@ -30,22 +27,7 @@ User Interface (GUI) chatting window.
 * message:"Hello, how are you doing?"
 
 * }
-
-
-### Architecture
-![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/architecture.png)
-
-### Join Process
-
-![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/join.png)
-
-### Send Process
-
-![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/send.png)
-
-### Leave Process
-
-![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/leave.png)
+```
 
 ### Input
 
@@ -58,3 +40,15 @@ User Interface (GUI) chatting window.
 ### Chat Between Different Hosts Example
 
 ![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/chatBetw2hosts.png)
+
+### Architecture
+![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/architecture.png)
+
+### Join Process & Send Process & Leave Process
+
+![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/3processes.png)
+
+
+
+
+
