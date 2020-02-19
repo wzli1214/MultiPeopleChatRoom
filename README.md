@@ -29,6 +29,11 @@ User Interface (GUI) chatting window.
 * }
 ```
 
+### Specification
+1. Run the server on a host. Get the IP address of the host which runs the server.
+2. Run the client on a different host. Input the name, input the server's IP address.
+3. Repeat the step 2 if you want to run multiple clients. You should have two clients at least to chat together. 
+
 ### Input
 
 ![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/input.png)
