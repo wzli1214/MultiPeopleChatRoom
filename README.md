@@ -31,3 +31,30 @@ User Interface (GUI) chatting window.
 
 * }
 
+
+### Architecture
+![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/architecture.png)
+
+### Join Process
+
+![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/join.png)
+
+### Send Process
+
+![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/send.png)
+
+### Leave Process
+
+![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/leave.png)
+
+### Input
+
+![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/input.png)
+
+### Chat Screens
+
+![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/chatScreen.png)
+
+### Chat Between Different Hosts Example
+
+![image](https://github.com/wzli1214/MultiPeopleChatRoom/blob/master/images/chatBetw2hosts.png)
